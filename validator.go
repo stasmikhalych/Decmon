@@ -6,7 +6,7 @@ import (
 	"encoding/hex"
 	"encoding/json"
 	"errors"
-	"https://github.com/btcsuite/btcd/tree/master/btcutil/bech32"
+	"github.com/btcsuite/btcd/tree/master/btcutil/bech32"
 	"strconv"
 	"strings"
 	"time"
