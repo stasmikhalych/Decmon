@@ -8,7 +8,7 @@ import (
 	"fmt"
 	missed "github.com/stasmikhalych/Decmon"
 	"github.com/gorilla/websocket"
-	"github.com/textileio/go-threads"
+	"github.com/textileio/go-threads/broadcast"
 	"log"
 	"net"
 	"net/http"
